@@ -1,0 +1,1 @@
+from quay.io/boson/faas-python-builder:v0.9.2
