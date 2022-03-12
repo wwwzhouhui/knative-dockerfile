@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/knative.dev/eventing-couchdb/source/cmd/webhook@sha256:87136f37117c106fb020d46a7f178ad1b2291bd1341726aed911728e184480bf
