@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/knative.dev/eventing-rabbitmq/cmd/controller/source@sha256:f22d5dbb1ee676ded73e5b35bcd978df0cf3c4e6a9200b4951e9b996feea823b

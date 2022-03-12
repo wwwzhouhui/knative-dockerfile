@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/knative.dev/eventing-rabbitmq/cmd/failer@sha256:6dbe9157b9b74fbcde84091d43d65ec1b827b5d86a4670128867f1cb777bfb56

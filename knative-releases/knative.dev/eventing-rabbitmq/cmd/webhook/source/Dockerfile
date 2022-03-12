@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/knative.dev/eventing-rabbitmq/cmd/webhook/source@sha256:28ff86b7d4cf0661d272996fb428bc20782405eb8542cf1ca3de0340a111def4

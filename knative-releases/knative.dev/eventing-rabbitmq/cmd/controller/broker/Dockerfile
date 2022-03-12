@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/knative.dev/eventing-rabbitmq/cmd/controller/broker@sha256:352d7fd1bf8dfb46a84c324ab11d3e35da786a95428771c66d5b832d1a0f456e
