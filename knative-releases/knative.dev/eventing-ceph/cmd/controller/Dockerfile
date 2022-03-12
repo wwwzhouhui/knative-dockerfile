@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/knative.dev/eventing-ceph/cmd/controller@sha256:edcc4c49c21fec6964ab1268b44dad3101a6eaa94750aecd0922510d537fd861
