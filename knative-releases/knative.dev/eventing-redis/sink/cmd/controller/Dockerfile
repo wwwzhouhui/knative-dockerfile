@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/knative.dev/eventing-redis/sink/cmd/controller@sha256:b0c5fdb6e3f6bf61a83eebfd9ebc0213db92e175039d479e3860d9cbac07ace7
