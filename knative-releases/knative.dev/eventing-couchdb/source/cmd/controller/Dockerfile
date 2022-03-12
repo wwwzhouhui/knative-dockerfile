@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/knative.dev/eventing-couchdb/source/cmd/controller@sha256:6ec154531d463dcf56297661993f18f4d196d467bcfd13b6392b3584b8fd7bc2m

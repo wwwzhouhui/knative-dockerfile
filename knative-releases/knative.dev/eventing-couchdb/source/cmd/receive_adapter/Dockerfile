@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/knative.dev/eventing-couchdb/source/cmd/receive_adapter@sha256:86afdf4a10db918b97a27313fdd7b6f74e006131b236d293286e0326b1b6e689
