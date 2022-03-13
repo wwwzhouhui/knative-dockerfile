@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/knative-kafka-broker-dispatcher:devel
