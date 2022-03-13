@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/knative.dev/eventing-prometheus/cmd/webhook@sha256:df1029c8a1871fa18f1d1018e463f119d1d8a4be364e807ef5cddc9b72bad40e

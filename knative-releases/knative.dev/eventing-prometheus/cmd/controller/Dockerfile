@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/knative.dev/eventing-prometheus/cmd/controller@sha256:428880c8beaf7a105ea162285f39e82fc119f58f8ee93214866221647dc4686c
