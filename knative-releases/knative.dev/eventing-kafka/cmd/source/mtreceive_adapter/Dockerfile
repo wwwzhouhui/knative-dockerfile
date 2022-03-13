@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/knative.dev/eventing-kafka/cmd/source/mtreceive_adapter@sha256:579d1dbf6090845cfee62a98e5072d70c51438cfd03dcd9747830d097e4786d5
